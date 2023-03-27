@@ -20,5 +20,5 @@ Estou animado para explorar novas oportunidades em minha carreira e contribuir p
 
 
 ## Repositórios Importantes
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaucioRosa&repo=Jogos_em_Python&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaucioRosa&repo=Criptografia-Simples&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaucioRosa&repo=Jogos_em_Python&theme=radical)](https://github.com/ClaucioRosa/Jogos_em_Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaucioRosa&repo=Criptografia-Simples&theme=radical)](https://github.com/ClaucioRosa/Criptografia-Simples)
