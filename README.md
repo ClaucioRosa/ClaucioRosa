@@ -1,6 +1,6 @@
 <h1 align="center">Welcome!</h1>
 
-Olá, meu nome é Claucio Rosa e sou um profissional da área de tecnologia com formação em tecnologia mecatrônica. Tenho uma paixão pela tecnologia e estou constantemente me atualizando com as últimas tendências e avanços no setor.
+Olá, meu nome é Claucio Rosa e sou um profissional da área de tecnologia com formação em tecnologia mecatrônica e graduando em Engenharia da Computação. Tenho uma paixão pela tecnologia e estou constantemente me atualizando com as últimas tendências e avanços no setor.
 
 Tenho habilidades em programação em C/C++, Python, AWS e IoT, e utilizei essas habilidades em diversos projetos em automação industrial, robótica e internet das coisas. Adoro trabalhar em equipe e estou sempre buscando aprender com meus colegas e compartilhar minhas próprias habilidades e experiências.
 
